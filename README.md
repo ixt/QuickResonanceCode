@@ -15,3 +15,5 @@ append with:
 embed this text in a qrcode, preferably using an application like qrencode (available in many distributions libraries)  
 
 to scan, get an app to scan codes with, some android versions have this built in, I recommend [zxing scanner](https://github.com/zxing/zxing). copy all the text to a clipboard, paste into a browser window. 
+
+this method, and future script as well as all examples are under CC-0, check COPYING.txt to read further.   
