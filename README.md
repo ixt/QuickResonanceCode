@@ -1,5 +1,7 @@
 #QR Embedded Audio
 
+Note: this is a proof of concept, there is only so much data can be put into a QR Code  
+
 Take the audio you have and cut it down to only what you want to hear.  
 Lower the quality to the lowest you can get, export as mp3 mono. (example.mp3 is the result of this step)
 
@@ -16,4 +18,4 @@ embed this text in a qrcode, preferably using an application like qrencode (avai
 
 to scan, get an app to scan codes with, some android versions have this built in, I recommend [zxing scanner](https://github.com/zxing/zxing). copy all the text to a clipboard, paste into a browser window. 
 
-this method, and future script as well as all examples are under CC-0, check COPYING.txt to read further.   
+this method, script as well as all examples are under CC-0, check COPYING.txt to read further.   
